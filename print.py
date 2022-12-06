@@ -1,3 +1,5 @@
+# This program is for understanding comments, escape sequence
+
 print(8, "Ball Pool")
 print("Hello World!")
 print("bye")
